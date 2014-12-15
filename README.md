@@ -1,6 +1,6 @@
 ## Genome
 
-The patern of my DNA, as decoded by 23andme
+The pattern of my DNA, as decoded by 23andme on Dec 2012.
 
 ## License
 ```
